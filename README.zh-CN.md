@@ -24,7 +24,7 @@
 
 ## 工作原理
 
-![Design Extractor 逻辑实现图](readme.png)
+![Design Extractor 逻辑实现图](readme2.png)
 
 ## 功能特性
 

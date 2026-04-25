@@ -24,7 +24,7 @@ The generated `DESIGN.md` follows the [Google Stitch](https://stitch.withgoogle.
 
 ## How It Works
 
-![Design Extractor Logic](readme.png)
+![Design Extractor Logic](readme2.png)
 
 ## Features
 

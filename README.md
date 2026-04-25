@@ -14,8 +14,6 @@
 
 </div>
 
----
-
 ## Overview
 
 **Design Extractor** is a Chrome side-panel extension that automatically analyzes a webpage's visual design elements — colors, typography, spacing, shadows, border radius, and component styles — then uses an LLM API to generate a professional `DESIGN.md` design system document.
@@ -73,12 +71,12 @@ The generated `DESIGN.md` follows the [Google Stitch](https://stitch.withgoogle.
 ├── content.js          # DOM extraction engine
 ├── background.js       # LLM API calls & file download
 ├── icons/              # Extension icons
-├── README.md           # This file
-├── README.zh-CN.md     # Chinese version
 └── LICENSE             # MIT License
 ```
 
----
+## Contributing
+
+Contributions are welcome. Please open an issue or submit a pull request on [GitHub](https://github.com/yuemokm/chrome-design-extractor).
 
 <div align="center">
 

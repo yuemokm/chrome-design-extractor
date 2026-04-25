@@ -14,8 +14,6 @@
 
 </div>
 
----
-
 ## 概述
 
 **Design Extractor** 是一款 Chrome 侧边栏扩展，能够自动分析网页的视觉设计元素——包括颜色、字体、间距、阴影、圆角和组件样式——并通过 LLM API 生成专业的 `DESIGN.md` 设计系统文档。
@@ -73,12 +71,12 @@
 ├── content.js          # DOM 提取引擎
 ├── background.js       # LLM API 调用与文件下载
 ├── icons/              # 扩展图标
-├── README.md           # 英文版本
-├── README.zh-CN.md     # 本文件
 └── LICENSE             # MIT 许可证
 ```
 
----
+## 贡献
+
+欢迎提交贡献。请在 [GitHub](https://github.com/yuemokm/chrome-design-extractor) 上提交 issue 或 pull request。
 
 <div align="center">
 

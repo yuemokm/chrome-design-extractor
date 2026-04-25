@@ -22,6 +22,10 @@
 
 生成的 `DESIGN.md` 遵循 [Google Stitch](https://stitch.withgoogle.com/) 单文件设计系统格式，作为设计意图与 AI 生成代码之间的桥梁。
 
+## 工作原理
+
+![Design Extractor 逻辑实现图](readme.png)
+
 ## 功能特性
 
 - **全站扫描模式**：自动采样页面可见 DOM 元素，按频率聚合设计 Token。

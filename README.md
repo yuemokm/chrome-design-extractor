@@ -22,6 +22,10 @@
 
 The generated `DESIGN.md` follows the [Google Stitch](https://stitch.withgoogle.com/) single-file design system format, serving as a bridge between design intent and AI-generated code.
 
+## How It Works
+
+![Design Extractor Logic](readme.png)
+
 ## Features
 
 - **Full-page Scan Mode**: Automatically samples visible DOM elements and aggregates design tokens by frequency.
